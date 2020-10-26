@@ -261,6 +261,6 @@ catch(err) {
 });
 
 if (!runningTests) {
-  require("ember-css-framework/app")["default"].create({"name":"ember-css-framework","version":"0.0.0+f2bdd064"});
+  require("ember-css-framework/app")["default"].create({"name":"ember-css-framework","version":"0.0.0+91c39aa4"});
 }
 //# sourceMappingURL=ember-css-framework.map
